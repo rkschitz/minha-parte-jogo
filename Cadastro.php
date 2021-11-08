@@ -154,7 +154,7 @@ if (isset($_POST["acao"])) {
                             $sql->execute(array($nome,$email,$senha));
                              ?>
                              <script>
-                            document.location = "paglogado.php";
+                            document.location = "paglogado.html";
                             </script>
 <?php
 }

@@ -54,7 +54,7 @@
           <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="Download.php">Download</a>
+          <a class="nav-link" href="(media fire link)">Download</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="história.html" tabindex="-1" aria-disabled="true">História</a>
@@ -134,7 +134,7 @@
                 }
                 ?>
                 <script>
-                document.location = "paglogado.php";
+                document.location = "paglogado.html";
                 </script>
                 <?php
             }else{
